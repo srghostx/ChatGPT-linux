@@ -1,0 +1,4 @@
+colored==1.4.4
+gTTS==2.3.0
+python-dotenv==0.21.0
+revChatGPT==0.0.49.1
