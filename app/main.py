@@ -1,14 +1,13 @@
 import os
 import platform
 from ai.OpenAI import OpenAI
-from dotenv import load_dotenv
 from terminal.Terminal import Terminal
 
-
+##change env
 
 def main():
     try:
-        load_dotenv()
+
         ai = OpenAI()
         terminal = Terminal()
 
